@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently working as an Associate Software Engineer (**Python, Django**)
 
 - 👯 I’m looking to collaborate on **Store Room**
 
