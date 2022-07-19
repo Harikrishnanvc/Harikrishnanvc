@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/harikrishnanviswanath**
 
-- 📄 Know about my experiences [1.5 years of experience in Python django](1.5 years of experience in Python django)
+- 📄 Know about my experiences [1.5 years of experience in Python django]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
