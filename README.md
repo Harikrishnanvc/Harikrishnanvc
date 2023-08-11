@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently working as an Python Developer
+- 🌱 I’m currently working as a Python Developer
 
 - 👯 I’m looking to collaborate on **Store Room**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/harikrishnanviswanath**
 
-- 📄 Know about my experiences [2 years of experience in Python django]
+- 📄 Know about my experiences [more than 2 years of experience in Python]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
