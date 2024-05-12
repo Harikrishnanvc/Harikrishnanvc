@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/harikrishnanviswanath**
 
-- 📄 Know about my experiences [more than 2 years of experience in Python]
+- 📄 Know about my experiences [more than 3 years of experience in Python]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
